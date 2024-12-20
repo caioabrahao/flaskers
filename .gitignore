@@ -1,0 +1,18 @@
+# Virtual environment
+venv/
+
+# IDE settings
+.idea/
+
+# Python bytecode
+__pycache__/
+*.pyc
+
+# Log files
+*.log
+
+# Environment variables
+.env
+
+# Node modules (if applicable)
+node_modules/
